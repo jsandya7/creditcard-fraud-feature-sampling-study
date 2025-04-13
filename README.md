@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection: Feature Engineering and Sampling Study
+# A Machine Learning Based Framework for Credit Card Fraud Detection: Comparative Study of Resampling and Classification Techniques
 
 This repository presents a comprehensive and explainable machine learning pipeline for detecting fraudulent credit card transactions. Developed using the CRISP-DM methodology, this project systematically explores the impact of feature engineering and various sampling techniques on classification performance across multiple models.
 
